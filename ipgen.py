@@ -1,10 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Core modules
 import sys
 import argparse
-import ipaddr
 import random
+
+# Third party modules
+import ipaddr
 
 
 def genvalidipv4():
